@@ -67,8 +67,8 @@ class OddballParticle extends Particle //inherits from Particle
     myYSize=100;
   }
   void move(){
-    myX=myX+10;
-    myY=myY-10;
+    myX=myX+5;
+    myY=myY-5;
   }  
   void show()
   {
